@@ -4,7 +4,7 @@ email: dilipsolanki1020@gmail.com
 
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
- This is my personal portfolio site.sfd
+ This is my personal portfolio site.sfd h
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
