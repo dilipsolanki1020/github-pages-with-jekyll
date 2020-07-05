@@ -1,4 +1,4 @@
 ---
-title: "Dilip"
-date : 2020-07-05
+title: "Your blog post title"
+date: 2020-07-05
 ---
