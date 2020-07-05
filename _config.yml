@@ -1,9 +1,11 @@
 title: Dilip's Portfolio
+date: 2020-07-05
 author: dilipsolanki1020
-email:dilipsolanki1020@gmail.com
+email: dilipsolanki1020@gmail.com
+
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
- This is my personal portfolio site.
+ This is my personal portfolio site.sfd
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
